@@ -1,0 +1,9 @@
+
+#General configuration settings
+[General]
+	#Enables/Disables the constant removal of items.
+	"Is it on?" = true
+	#Use F3+H to show tooltips and get the name of the item, place it here. It get delete. Example: ["minecraft:stone"]
+	#or if you need to ban multiple ["minecraft:stone", "minecraft:dirt"]
+	"Items To Delete" = ["minecraft:enchanted_book", "minecraft:golden_carrot", "minecraft:experience_bottle", "minecraft:enchanting_table", "minecraft:enchanted_golden_apple"]
+
