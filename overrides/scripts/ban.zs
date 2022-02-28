@@ -1,0 +1,10 @@
+import mods.itemstages.ItemStages;
+import mods.gamestages.StageHelper;
+import crafttweaker.api.events.CTEventManager;
+import mods.gamestages.events.GameStageAdded;
+ItemStages.restrict(<item:minecraft:enchanted_book>,"ban");
+ItemStages.restrict(<item:minecraft:golden_carrot>,"ban");
+ItemStages.restrict(<item:minecraft:experience_bottle>,"ban");
+ItemStages.restrict(<item:minecraft:enchanting_table>,"ban");
+ItemStages.restrict(<item:minecraft:enchanted_golden_apple>,"ban");
+ItemStages.restrict(<item:patchouli:guide_book>.withTag({"patchouli:book": "geolosys:field_manual" as string}),"ban");
