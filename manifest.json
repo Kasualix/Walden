@@ -1,0 +1,214 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.2.29",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Walden - Realman Age",
+  "version": "1.0.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 298112,
+      "fileID": 3346337,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3604213,
+      "required": true
+    },
+    {
+      "projectID": 280316,
+      "fileID": 3482955,
+      "required": true
+    },
+    {
+      "projectID": 287443,
+      "fileID": 3231449,
+      "required": true
+    },
+    {
+      "projectID": 231821,
+      "fileID": 3547981,
+      "required": true
+    },
+    {
+      "projectID": 433760,
+      "fileID": 3296039,
+      "required": true
+    },
+    {
+      "projectID": 441024,
+      "fileID": 3251051,
+      "required": true
+    },
+    {
+      "projectID": 244844,
+      "fileID": 3529333,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3459118,
+      "required": true
+    },
+    {
+      "projectID": 318012,
+      "fileID": 3486780,
+      "required": true
+    },
+    {
+      "projectID": 367337,
+      "fileID": 3655901,
+      "required": true
+    },
+    {
+      "projectID": 430225,
+      "fileID": 3253993,
+      "required": true
+    },
+    {
+      "projectID": 449818,
+      "fileID": 3413135,
+      "required": true
+    },
+    {
+      "projectID": 271856,
+      "fileID": 3342071,
+      "required": true
+    },
+    {
+      "projectID": 388172,
+      "fileID": 3629666,
+      "required": true
+    },
+    {
+      "projectID": 368718,
+      "fileID": 3584024,
+      "required": true
+    },
+    {
+      "projectID": 354339,
+      "fileID": 3199872,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3326041,
+      "required": true
+    },
+    {
+      "projectID": 257356,
+      "fileID": 3650522,
+      "required": true
+    },
+    {
+      "projectID": 468893,
+      "fileID": 3296675,
+      "required": true
+    },
+    {
+      "projectID": 269973,
+      "fileID": 3541767,
+      "required": true
+    },
+    {
+      "projectID": 363820,
+      "fileID": 3451426,
+      "required": true
+    },
+    {
+      "projectID": 235729,
+      "fileID": 3191715,
+      "required": true
+    },
+    {
+      "projectID": 522335,
+      "fileID": 3573845,
+      "required": true
+    },
+    {
+      "projectID": 276837,
+      "fileID": 3421111,
+      "required": true
+    },
+    {
+      "projectID": 367806,
+      "fileID": 3405963,
+      "required": true
+    },
+    {
+      "projectID": 227657,
+      "fileID": 3378657,
+      "required": true
+    },
+    {
+      "projectID": 238891,
+      "fileID": 3502320,
+      "required": true
+    },
+    {
+      "projectID": 333287,
+      "fileID": 3296012,
+      "required": true
+    },
+    {
+      "projectID": 448367,
+      "fileID": 3375832,
+      "required": true
+    },
+    {
+      "projectID": 289043,
+      "fileID": 3590179,
+      "required": true
+    },
+    {
+      "projectID": 400838,
+      "fileID": 3261943,
+      "required": true
+    },
+    {
+      "projectID": 297404,
+      "fileID": 3538356,
+      "required": true
+    },
+    {
+      "projectID": 410295,
+      "fileID": 3593195,
+      "required": true
+    },
+    {
+      "projectID": 352491,
+      "fileID": 3476408,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3641085,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 3665923,
+      "required": true
+    },
+    {
+      "projectID": 268655,
+      "fileID": 3480161,
+      "required": true
+    },
+    {
+      "projectID": 367706,
+      "fileID": 3651355,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
