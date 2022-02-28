@@ -1,0 +1,7 @@
+[
+    {
+        "hostile":"true",
+        "result":"deny",
+        "onjoin":"true"
+    }
+]

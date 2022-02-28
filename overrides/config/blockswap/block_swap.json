@@ -1,0 +1,6 @@
+{
+  "retroGen": false,
+  "swapper": {
+    "minecraft:redstone_ore": "minecraft:stone"
+  }
+}
